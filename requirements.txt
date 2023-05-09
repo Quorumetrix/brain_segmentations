@@ -1,0 +1,9 @@
+numpy
+scikit-image
+scikit-learn
+SimpleElastix
+ANTsPy
+opencv-python
+matplotlib
+seaborn
+pandas
