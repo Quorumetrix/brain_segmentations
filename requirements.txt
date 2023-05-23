@@ -1,9 +1,7 @@
-numpy
-scikit-image
-scikit-learn
-SimpleElastix
-ANTsPy
-opencv-python
+numpy 
+imageio
 matplotlib
-seaborn
-pandas
+tqdm
+scikit-image
+nibabel
+imagecodecs
